@@ -1,0 +1,63 @@
+* {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: comic sans ms;
+}
+
+.wrapper {
+	margin: auto;
+	text-align: center;
+}
+
+.logo a {
+	font-size: 50px;
+	font-family: comic sans ms;
+	color: #FF2626;
+}
+
+.tabel {
+	color: #fff;
+	font-family: comic sans ms;
+}
+
+.image {
+	text-align: center;
+}
+
+.lagu {
+	text-align: center;
+	color: #FF2626;
+}
+
+.informasi {
+  text-align: center;
+  color: #FF2626;
+  padding-top: 50px;
+  font-family: comic sans ms;
+}
+
+.gugur {
+  text-align: center;
+  color: #FF2626;
+  padding-top: 30px;
+  font-family: comic sans ms;
+}
+
+.guruku {
+  text-align: center;
+  color: #FF2626;
+  padding-top: 30px;
+  font-family: comic sans ms;
+}
+
+.copy {
+  text-align: center;
+  padding: 20px;
+  color: #FF2626;
+}
